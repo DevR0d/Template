@@ -1,0 +1,4 @@
+/* Estilos globales de la plantilla. Puedes agregar tus estilos aquí. */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
