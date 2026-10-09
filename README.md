@@ -15,8 +15,8 @@ Esta es una plantilla base para iniciar proyectos con **React**, **Vite** y **Ta
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
-   cd tu-repo
+   git clone https://github.com/DevR0d/Template.git
+   cd Template
    ```
 
 2. Instala las dependencias:
